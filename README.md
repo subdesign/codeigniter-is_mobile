@@ -6,7 +6,7 @@
 
 2. In the constructor
 
-    if( is_mobile() )
-    {
-	redirect('http://mobile.mysite.com');
-    }
+      if( is_mobile() )
+      {
+	  redirect('http://mobile.mysite.com');
+      }
